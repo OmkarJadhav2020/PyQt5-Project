@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="Images">
+    <file>download.png</file>
+    <file>customer.png</file>
+    <file>feature.png</file>
+    <file>operation.png</file>
+    <file>report.png</file>
+    <file>transaction (2).png</file>
+    <file>backup.png</file>
+    <file>key.png</file>
+    <file>transaction.png</file>
+    <file>box.png</file>
+    <file>user (1).png</file>
+    <file>warehouse.png</file>
+    <file>distribution-center.png</file>
+    <file>dashboard.png</file>
+    <file>logout.png</file>
+    <file>user_image.PNG</file>
+    <file>C:/Users/Omkar/Downloads/close.png</file>
+    <file>C:/Users/Omkar/Downloads/cancel.png</file>
+    <file>C:/Users/Omkar/Downloads/cancel.png</file>
+    <file>C:/Users/Omkar/Desktop/5f9c9cfc740569d1a4ca3543.jpg</file>
+    <file>login-icon-button-vector-illustration-isolated-white-background-127000355.jpg</file>
+    <file>C:/Users/Omkar/Downloads/login.png</file>
+  </qresource>
+</RCC>
